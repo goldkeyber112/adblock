@@ -1,0 +1,3 @@
+*://message.bilibili.com/pages/nav/index_new_pc_sync
+*://message.bilibili.com/pages/nav/index_new_sync
+btbtt11.com##.hidden-xs
