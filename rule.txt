@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202210090110
+! Version: 202210090120
 ! Title: 用户规则
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
 ||message.bilibili.com/pages/nav/index_new_pc_sync
 ||message.bilibili.com/pages/nav/index_new_sync
-||hyext.cdn.huya.com^$third-party
+||hyext.cdn.huya.com$domain=huya.com
 btbtt11.com##.hidden-xs
