@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 202210090120
-! Title: 用户规则
+! Version: 202210121531
+! Title: goldkeyber自用规则
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
 ||message.bilibili.com/pages/nav/index_new_pc_sync
