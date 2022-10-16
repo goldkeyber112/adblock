@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202210160948
+! Version: 202210160950
 ! Title: goldkeyber自用规则
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
