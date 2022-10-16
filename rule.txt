@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 202210152130
+! Version: 202210160936
 ! Title: goldkeyber自用规则
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
 bilibili.com##.reply-notice
+bilibili.com##.trending
 btbtt11.com##.hidden-xs
 huya.com##.room-weeklyRankList
 huya.com###wrap-income
@@ -17,3 +18,5 @@ huya.com##.player-gift-right
 huya.com###diy-pet-icon
 live.bilibili.com##.hinter
 live.bilibili.com##.icon-right-part
+static.zhihu.com/heifetz/main.signflow.*.js
+static.zhihu.com/heifetz/*.signflow.*.css
