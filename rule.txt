@@ -1,15 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 202210201430
+! Version: 202210221320
 ! Title: goldkeyber自用规则
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
-bilibili.com##.reply-notice
 btbtt11.com##.hidden-xs
 douyu.com##.Barrage-notice
 douyu.com##.ChargeTask-closeBg
 douyu.com##.layout-Player-effect
-huya.com###diy-pet-icon
-huya.com###wrap-income
 huya.com##.chat-wrap-panel
 huya.com##.msg-bubble-decorationPrefix
 huya.com##.msg-bubble-icon
@@ -19,9 +16,6 @@ huya.com##.player-face
 huya.com##.player-gift-left
 huya.com##.player-gift-right
 huya.com##.room-weeklyRankList
-live.bilibili.com##.hinter
-live.bilibili.com##.msg-hinter
-live.bilibili.com##.icon-right-part
 static.zhihu.com/heifetz/*.signflow.*.css
 static.zhihu.com/heifetz/main.signflow.*.js
 t.bilibili.com##.topic-panel
