@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202210240909
-! Title: goldkeyber自用规则
+! Version: 202210241000
+! Title: Custom filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
+!-----------------------General advert blocking filters-----------------------!
 btbtt11.com##.hidden-xs
 static.zhihu.com/heifetz/*.signflow.*.css
 static.zhihu.com/heifetz/main.signflow.*.js
