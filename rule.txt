@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202210301200
+! Version: 202211231225
 ! Title: Custom filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
@@ -11,3 +11,4 @@ btbtt11.com##.hidden-xs
 static.zhihu.com/heifetz/*.signflow.*.css
 static.zhihu.com/heifetz/main.signflow.*.js
 t.bilibili.com##.topic-panel
+zhihu.com##.css-1ynzxqw
