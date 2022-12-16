@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202212170045
+! Version: 202212170056
 ! Title: Custom filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
@@ -9,10 +9,12 @@ bilibili.com##.pop-live-small-mode
 bilibili.com##.reply-notice
 bilibili.com##.video-page-special-card-small
 btbtt11.com##.hidden-xs
+douyu.com##.ChargeTask-closeBg
 douyu.com##.ChatFansBarrage
 douyu.com##.ChatNobleBarrage
 douyu.com##.FansMedalPanel-container
 douyu.com##.Horn4Category
+douyu.com##.MatchSystemMedalPanel-container
 douyu.com##.UserLevel
 douyu.com##.layout-Aside
 douyu.com##.layout-Customize
