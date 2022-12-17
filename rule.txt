@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202212171815
+! Version: 202212171825
 ! Title: Custom filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !
@@ -25,6 +25,7 @@ huya.com###player-noble-btn
 huya.com##.chat-host-pic
 huya.com##.chat-wrap-panel
 huya.com##.end-ab-banner
+huya.com##.helperbar-root--12hgWk_4zOxrdJ73vtf1YI
 huya.com##.list-adx
 huya.com##.liveList-header-r
 huya.com##.mod-sidebar
