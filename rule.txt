@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202310161757
+! Version: 202310201752
 ! Title: Custom filter
 ! Homepage: https://githubfast.com/goldkeyber112/adblock
 !
@@ -9,43 +9,6 @@ bilibili.com##.pop-live-small-mode
 bilibili.com##.reply-notice
 bilibili.com##.video-page-special-card-small
 btbtt13.com##.hidden-xs
-douyu.com###js-room-activity
-douyu.com##.Barrage-notice
-douyu.com##.ChargeTask-closeBg
-douyu.com##.ChatBarrageCollect
-douyu.com##.ChatFansBarrage
-douyu.com##.ChatNobleBarrage
-douyu.com##.DiamondsFansBarrage
-douyu.com##.FansMedalPanel-container
-douyu.com##.Horn4Category
-douyu.com##.MatchSystemMedalPanel-container
-douyu.com##.PlayerToolbar-couponInfo
-douyu.com##.ToolbarActivityArea
-douyu.com##.ToolbarGiftArea
-douyu.com##.UserLevel
-douyu.com##.layout-Aside
-douyu.com##.layout-Customize
-douyu.com##.TreasureDetail
-huya.com###diy-pet-icon
-huya.com###player-noble-btn
-huya.com##.chat-host-pic
-huya.com##.chat-wrap-panel
-huya.com##.end-ab-banner
-huya.com##.helperbar-root--12hgWk_4zOxrdJ73vtf1YI
-huya.com##.list-adx
-huya.com##.liveList-header-r
-huya.com##.mod-sidebar
-huya.com##.msg-bubble-decorationPrefix
-huya.com##.msg-bubble-decorationSuffix
-huya.com##.msg-normal-decorationPrefix
-huya.com##.msg-normal-decorationSuffix
-huya.com##.player-app-qrcode
-huya.com##.player-face
-huya.com##.player-gift-left
-huya.com##.player-subscribe
-huya.com##.room-chat-tool-color
-huya.com##.room-weeklyRankList
-huya.com##.superFans-fansDay
 static.zhihu.com/heifetz/*.signflow.*.css
 static.zhihu.com/heifetz/main.signflow.*.js
 t.bilibili.com##.topic-panel
