@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202310201752
+! Version: 202310210030
 ! Title: Custom filter
-! Homepage: https://githubfast.com/goldkeyber112/adblock
+! Homepage: https://github.com/goldkeyber112/adblock
 !
 !-----------------------General advert blocking filters-----------------------!
 bilibili.com##.ad-report
