@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202311110946
+! Version: 202311121016
 ! Title: Custom Filter
 ! Homepage: https://githubfast.com/goldkeyber112/adblock
 !-----------------------General advert blocking filters-----------------------!
