@@ -3,6 +3,7 @@
 ! Title: Custom Filter
 ! Homepage: https://githubfast.com/goldkeyber112/adblock
 !-----------------------General advert blocking filters-----------------------!
+bdys10.com##.col-12
 bilibili.com##.adblock-tips
 bilibili.com##.bili-mini-mask
 bilibili.com##.login-panel-popover
