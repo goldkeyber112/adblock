@@ -1,10 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311131211
+! Version: 202311131213
 ! Title: Custom Filter
 ! Homepage: https://githubfast.com/goldkeyber112/adblock
 !-----------------------General advert blocking filters-----------------------!
-bdys10.com##div.container-xl.my-3.py-1:nth-child(3) > div.row.row-deck.row-cards > div.col-12:nth-child(3)
-bdys10.com##div.container-xl.my-3.py-1:nth-child(3) > div.row.row-deck.row-cards > div.col-12:nth-child(4)
 bilibili.com##.adblock-tips
 bilibili.com##.bili-mini-mask
 bilibili.com##.login-panel-popover
