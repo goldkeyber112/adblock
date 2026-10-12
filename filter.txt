@@ -1,21 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 202609221638
-! Title: Custom Filter
+! Version: 202610121526
+! Title: User Filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !-----------------------General advert blocking filters-----------------------!
-bilibili.com##.activity-m-v1
-bilibili.com##.adblock-tips
-bilibili.com##.bili-mini-mask
-bilibili.com##.download-entry
-bilibili.com##.left-loc-entry
-bilibili.com##.login-panel-popover
-bilibili.com##.lt-row
-bilibili.com##.topic-panel
-bilibili.com##.video-ai-assistant
-bilibili.com##.video-card-ad-small
-bilibili.com##.vip-wrap
-bing.com##div.b_inline_ajax_rs
-bing.com###b_results > li:has(cite:has-text(csdn.net))
-douyin.com###btn-feelgood
-google.com##div.MjjYud:has(cite:has-text(csdn.net))
-t.bilibili.com###app > div.bili-dyn-home--member:last-child > aside.right:nth-child(3) > section:first-child
+t.bilibili.com##.bili-dyn-banner
