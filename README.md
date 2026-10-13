@@ -1,1 +1,1 @@
-# Custom Adblock Filter
+# Self‑use Adblock Filter
