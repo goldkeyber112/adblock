@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202610121526
+! Version: 202610140458
 ! Title: User Filter
 ! Homepage: https://github.com/goldkeyber112/adblock
 !-----------------------General advert blocking filters-----------------------!
 t.bilibili.com##.bili-dyn-banner
+gh-proxy.com##main.flex-grow:nth-child(4) > div.max-w-6xl.mx-auto.px-4.sm\:px-6.lg\:px-8.py-10.sm\:py-16.space-y-16.sm\:space-y-24:last-child > div.banner-section.relative:nth-child(2)
